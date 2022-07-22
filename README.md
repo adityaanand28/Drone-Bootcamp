@@ -6,3 +6,6 @@ This project was offered by Aeromodelling Club, IIT Kanpur during summers from M
 - Simulated the quadcopter and hexacopter on Gazebo to study drone kinematics, dynamics and degree of freedom
 - Executed drone simulation using MATLAB and Simulink to run the quadcopter in a virtual mode and ran ROS packages
 - Flight Planning was done using Mission Planner to control the quadcopter and studied feedback loop of PID controller
+
+## Final Poster:
+<img src="https://github.com/adityaanand28/Drone-Bootcamp/blob/main/Final_Poster.jpg" width="540" height="391">
